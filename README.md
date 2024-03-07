@@ -40,6 +40,14 @@ I'm actively seeking collaborations on full-stack projects. Whether it's creatin
 ## 📈 GitHub Stats
 
 [![Ayanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayandasibanda&show_icons=true&count_private=true&hide=contribs,prs)](https://github.com/ayandasibanda)
+[stats](https://github-stats.com/ayandasibanda/alx-low_level_programming)
+[stats](https://github-stats.com/ayandasibanda/alx-higher_level_programming)
+[stats](https://github-stats.com/ayandasibanda/alx-system_engineering-devops)
+[stats](https://github-stats.com/ayandasibanda/CODSOFT)
+[stats](https://github-stats.com/ayandasibanda/sorting_algorithms)
+[stats](https://github-stats.com/ayandasibanda/alx-pre_course)
+[stats](https://github-stats.com/ayandasibanda/alx-zero_day)
+
 
 Feel free to explore my repositories, ask questions, or reach out for a coding discussion. Let's build a comprehensive skill set together and create something amazing! 🚀
 
