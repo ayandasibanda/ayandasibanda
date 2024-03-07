@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hi there, I'm Ayanda Sibanda! 👋
 
 I'm a passionate Software Engineering student at ALX, on a journey to become a full-stack developer. I'm currently exploring a diverse range of technologies and frameworks to build a strong foundation.
