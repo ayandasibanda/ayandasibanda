@@ -38,6 +38,7 @@ I'm actively seeking collaborations on full-stack projects. Whether it's creatin
 ## 📈 GitHub Stats
 
 [![Ayanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayandasibanda&show_icons=true&count_private=true&hide=contribs,prs)](https://github.com/ayandasibanda)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayandasibanda&layout=donut-vertical)](https://github.com/ayandasibanda/github-readme-stats)
 
 
 Feel free to explore my repositories, ask questions, or reach out for a coding discussion. Let's build a comprehensive skill set together and create something amazing! 🚀
