@@ -10,7 +10,7 @@ I'm a passionate Software Engineering student at ALX, on a journey to become a f
 
 ## 🌱 Tech Stack
 
-- Languages: HTML, CSS, JavaScript, Java, Python, SQL
+- Languages: HTML, CSS, JavaScript, Java, Python, SQL, C#, C
 - Tools: Git, Command Line Editors, Bash Scripting, Regex
 
 ## 💻 Full Stack Development Goals
