@@ -1,23 +1,23 @@
-# Hi there, I'm Ayanda! 👋
+# Hi, I'm Ayanda! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
-I'm a passionate Software Engineering student at ALX, on a journey to become a full-stack developer. I'm currently exploring a diverse range of technologies and frameworks to build a strong foundation.
+I’m **Ayanda Sibanda**, a tech enthusiast, problem solver, and software engineer passionate about creating innovative solutions that don’t just work but truly make an impact. My journey in tech began with pure curiosity and has evolved into a deep love for solving complex problems with clean, scalable code.
 
-## 👯 I'm Open to Collaboration
+After completing the **ALX Software Engineering Program**, I immersed myself in building scalable backend systems, mastering architectures, and transforming ideas into meaningful solutions.
 
-I'm actively seeking collaborations on full-stack projects. Whether it's creating dynamic user interfaces or building scalable back-end systems, I'm excited to contribute and learn.
+I’m currently pursuing a **Bachelor of Computer Science** at **IU International University of Applied Sciences**, constantly refining my skills to stay ahead of the curve.
 
-## 📫 Let's Connect
+---
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayanda-sibanda-754384245/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_Ayanda_Sibanda)
+## 🚀 Fun Facts About Me  
+- **Tech for Good:** I believe in using technology to create solutions that have a meaningful impact on the world.  
+- **Lifelong Learner:** Always refining my skills and keeping up with the latest tech trends.  
+- **Endless Curiosity:** I’m often experimenting with new frameworks and diving into emerging technologies to see how I can apply them in real-world scenarios.
 
-## 📈 GitHub Stats
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayandasibanda&layout=donut-vertical)](https://github.com/ayandasibanda/github-readme-stats)
--
-[![Ayanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayandasibanda&show_icons=true&count_private=true&hide=contribs,prs)](https://github.com/ayandasibanda)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
+---
 
-Feel free to explore my repositories, ask questions, or reach out for a coding discussion. Let's build a comprehensive skill set together and create something amazing! 🚀
-
-Thanks for stopping by my GitHub profile!
+Let’s connect and build something awesome together!  
