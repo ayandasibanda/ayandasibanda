@@ -1,6 +1,6 @@
 # Hi, I'm Ayanda! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
-I’m **Ayanda Sibanda**, a tech enthusiast, problem solver, and software engineer passionate about creating innovative solutions that don’t just work but truly make an impact. My journey in tech began with pure curiosity and has evolved into a deep love for solving complex problems with clean, scalable code.
+I’m a tech enthusiast, problem solver, and software engineer passionate about creating innovative solutions that don’t just work but truly make an impact. My journey in tech began with pure curiosity and has evolved into a deep love for solving complex problems with clean, scalable code.
 
 After completing the **ALX Software Engineering Program**, I immersed myself in building scalable backend systems, mastering architectures, and transforming ideas into meaningful solutions.
 
